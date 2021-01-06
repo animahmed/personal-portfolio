@@ -1,8 +1,8 @@
 h1{
     
     font-size: 50px;
-    padding-bottom:  0%;
-    margin-bottom:  0%;
+    padding-inline-end: 1%;
+    margin-bottom:  2%;
 }
 h2{
     font-size: 40px;
@@ -40,8 +40,8 @@ float: left;
     font-weight: 700px;
 }
 .working-experience{
-    margin-top: 5%;
-    padding: 3%;
+    margin-top: 3%;
+    padding: 2%;
     width: 100%;
     float: left;
     clear: left;
@@ -68,4 +68,64 @@ float: left;
 .project-box p{
     font-size: 10px;
     margin:3%
+}
+.work-inquiry-background{
+clear:left;
+margin-left: 15%;
+margin-top: 70%;
+width: 70%;
+height: 400px;
+background-image: url("images/inquirybanner.png");
+background-repeat: no-repeat;
+ background-size: contain;
+
+}
+
+.inquiry-box{
+    margin:0%;
+    padding:0%;
+    width: 50%;
+    float:left;
+}
+.inquiry-box h2{
+    margin-left: 15%;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+
+}
+.inquiry-box a{
+
+    float: right;
+    margin: 17% 15% 0% 0%;
+}
+.education{
+    
+    margin-top: 3%;
+    padding: 2%;
+    width: 100%;
+    float: left;
+    clear: left;
+    background-color: white;
+    text-align: center;
+
+
+}
+footer {
+    text-align: center;
+   
+    
+}
+h4{
+    font-size: 15px;
+    color: grey;
+}
+h5{
+    font-size: 20px;
+    color:black;
+
+
+}
+.image-icon{
+    font-size: 10px;
 }
